@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. Student in AI at <a href='https://ai.unist.ac.kr/'>UNIST</a>
+subtitle: <a href='https://ai.unist.ac.kr/'>UNIST</a> Graduate School of AI
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>AI-HRI Lab</p>
-    <p>UNIST</p>
-    <p>Ulsan, South Korea</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a M.S. student in the [Graduate School of Artificial Intelligence](https://ai.unist.ac.kr/) at [UNIST](https://www.unist.ac.kr/), advised by [Prof. Hyemin Ahn](https://sites.google.com/view/hyemin-ahn) at the [AI-HRI Lab](https://sites.google.com/view/ai-hri-lab). My research focuses on **Robotic Manipulation** and **World Models** for intelligent robot control.
+I am a M.S. student at [UNIST](https://www.unist.ac.kr/) [Graduate School of AI](https://ai.unist.ac.kr/), advised by [Hyemin Ahn](https://sites.google.com/view/hyemin-ahn). I am interested in building **robotic foundation models**, with a focus on **world models** and **robotic manipulation**.
 
-Previously, I received my B.S. in Mechanical Engineering from [Myongji University](https://www.mju.ac.kr/) in 2024, where I worked as an undergraduate intern at the Dynamic Robot Control Lab (DRCL) under the supervision of Prof. Dong-il Choi.
+Previously, I received my B.S. in Mechanical Engineering from [Myongji University](https://www.mju.ac.kr/) in 2024, where I worked at the Dynamic Robot Control Lab (DRCL) under [Dong-il Choi](https://www.mju.ac.kr/mjukr/253/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRm1qdWtyJTJGMTQ0JTJGNjA0NDIlMkZ2aWV3LmRvJTNG).
