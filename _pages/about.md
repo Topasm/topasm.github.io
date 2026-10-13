@@ -31,7 +31,7 @@ I earned my M.S. in Artificial Intelligence at [UNIST](https://www.unist.ac.kr/)
 
 ## Technical report
 
-**[Demonstrating a Vision-Based AI Robot for Strategic Board Games](https://sites.google.com/view/gomoku-robot/)** — Taehwan Kim*, Dokeun Lee*, <strong>Seonghyeon Kim</strong>*, Yongjun Choi*, Sungjun Heo, Thi Thuy Ngan Duong, Kyungdon Joo, Namhun Kim, Jeong hwan Jeon, and Hyemin Ahn. *The first four authors contributed equally.* This technical report describes a low-cost Gomoku robot integrating real-time vision, reinforcement learning decisions, and robotic arm control.
+**[Demonstrating a Vision-Based AI Robot for Strategic Board Games](https://sites.google.com/view/gomoku-robot/)** — Taehwan Kim<sup>*</sup>, Dokeun Lee<sup>*</sup>, <strong>Seonghyeon Kim</strong><sup>*</sup>, Yongjun Choi<sup>*</sup>, Sungjun Heo, Thi Thuy Ngan Duong, Kyungdon Joo, Namhun Kim, Jeong hwan Jeon, and Hyemin Ahn. *The first four authors contributed equally.* This technical report describes a low-cost Gomoku robot integrating real-time vision, reinforcement learning decisions, and robotic arm control.
 
 ## Team recognition
 
