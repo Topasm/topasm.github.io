@@ -7,6 +7,7 @@ subtitle: Ph.D. student · <a href='https://eee.postech.ac.kr/'>POSTECH Electric
 profile:
   align: right
   image: seonghyeon_kim_rllab.png
+  alt: Seong Hyeon Kim
   image_circular: false # crops the image to make it circular
   more_info:
 
