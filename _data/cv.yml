@@ -87,9 +87,24 @@
       description:
         - Y. Yang, S. Ahn, S. H. Kim, and D. Choi
 
+- title: Technical Reports
+  type: time_table
+  contents:
+    - title: <a href="https://sites.google.com/view/gomoku-robot/">Demonstrating a Vision-Based AI Robot for Strategic Board Games</a>
+      institution: Technical Report
+      description:
+        - 'Taehwan Kim*, Dokeun Lee*, <strong>Seonghyeon Kim*</strong>, Yongjun Choi*, Sungjun Heo, Thi Thuy Ngan Duong, Kyungdon Joo, Namhun Kim, Jeong hwan Jeon, and Hyemin Ahn'
+        - '* The first four authors contributed equally.'
+        - 'Low-cost Gomoku robot integrating real-time vision, reinforcement learning decisions, and robotic arm control.'
+
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: RLLAB team — 4th place, 2026 Humanoid Challenge
+      institution: RLLAB, POSTECH
+      year: Jul 2026
+      description:
+        - '<a href="https://rllab.postech.ac.kr/rllab/bbs/gallery.do?mode=view&amp;articleNo=48070&amp;article.offset=0&amp;articleLimit=9">Official lab event post</a>; event held June 30–July 3, 2026.'
     - title: Bronze Award, School Capstone Design Project
       institution: Myongji University
       year: Dec 2023
