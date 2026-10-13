@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ai.unist.ac.kr/'>UNIST</a> Graduate School of AI
+subtitle: <a href='https://www.postech.ac.kr/eng/academics/department_info.do'>POSTECH</a> Ph.D. student · Robot Learning Lab (RLLab)
 
 profile:
   align: right
@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a M.S. student at [UNIST](https://www.unist.ac.kr/) [Graduate School of AI](https://ai.unist.ac.kr/), advised by [Hyemin Ahn](https://sites.google.com/view/hyemin-ahn). I am interested in building **robotic foundation models**, with a focus on **world models** and **robotic manipulation**.
+I am a Ph.D. student in Artificial Intelligence at [POSTECH](https://www.postech.ac.kr/eng/academics/department_info.do) (since February 2026), advised by [Prof. Hyemin Ahn](https://sites.google.com/view/hyemin-ahn) in the Robot Learning Lab (RLLab). My research focuses on **robotic manipulation** and **world models** for intelligent robot control. I am also interested in robotic foundation models.
 
-Previously, I received my B.S. in Mechanical Engineering from [Myongji University](https://www.mju.ac.kr/) in 2024, where I worked at the Dynamic Robot Control Lab (DRCL) under [Dong-il Choi](https://www.mju.ac.kr/mjukr/253/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRm1qdWtyJTJGMTQ0JTJGNjA0NDIlMkZ2aWV3LmRvJTNG).
+I earned my M.S. in Artificial Intelligence at [UNIST](https://www.unist.ac.kr/) (March 2024–February 2026), where I worked in the AI-HRI Lab with Prof. Ahn. Before that, I earned my B.S. in Mechanical Engineering from [Myongji University](https://www.mju.ac.kr/) (March 2018–February 2024) and worked in the Dynamic Robot Control Lab (DRCL) under [Prof. Dong-il Choi](https://www.mju.ac.kr/mjukr/253/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRm1qdWtyJTJGMTQ0JTJGNjA0NDIlMkZ2aWV3LmRvJTNG).
