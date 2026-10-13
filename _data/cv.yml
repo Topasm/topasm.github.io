@@ -11,8 +11,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Artificial Intelligence
-      institution: POSTECH Graduate School of Artificial Intelligence
+    - title: Ph.D. in Electrical Engineering
+      institution: <a href="https://eee.postech.ac.kr/">Department of Electrical Engineering, POSTECH</a>
       year: Feb 2026–present
       description:
         - 'Advisor: Prof. Hyemin Ahn'
